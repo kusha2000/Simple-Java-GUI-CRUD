@@ -4,23 +4,25 @@ This Java desktop application integrates with a MySQL database to manage student
 
 Features:
 <ul>
-<li>User Authentication: Users must log in to access the system.</li>
-<li>Student Management: Users can add students by providing their ID, name, age, and province.</li>
-<li>Data Visualization: View student information in a table format.</li>
-<li>CRUD Operations: Edit and delete existing student records.</li>
-<li>Search Functionality: Search for student details by entering the name.</li>
+✅ User Authentication: Users must log in to access the system.<br>
+✅ Student Management: Users can add students by providing their ID, name, age, and province.<br>
+✅ Data Visualization: View student information in a table format.<br>
+✅ CRUD Operations: Edit and delete existing student records.<br>
+✅ Search Functionality: Search for student details by entering the name.<br>
 </ul>
 
 Technologies Used
 <ul>
-<li>Java: Application development</li>
-<li>MySQL: Database management</li>
+🔹 Java: Application development<br>
+🔹 MySQL: Database management<br>
 </ul>
 
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/user-attachments/assets/795d87b4-af68-441f-be24-bf5f97bd0d1a)
+
+https://github.com/user-attachments/assets/1e93908e-6061-406c-b7a2-186d9a136c08
+
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
